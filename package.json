@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmteasources/voluptatum-aliquid-esse-ipsa",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,12 +10,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmteasources/voluptatum-aliquid-esse-ipsa.git"
   },
   "dependencies": {
     "analsorhost-simple-bs": "^1.0.0",
     "corcojs-qrcode": "^1.0.0",
     "dable-effect": "^1.0.2",
+    "rewiki-survey": "^2.0.0",
     "simple-assi-animation": "^1.0.1",
     "simple-assi-module-loading": "^1.0.0",
     "simple-assi-module-proccess": "^1.0.0",
